@@ -9,7 +9,10 @@ The world is becoming more interconnected, and with that, the need for robust cy
 - Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
   ## Certifications
   ### [Google Cyber Security](https://www.coursera.org/account/accomplishments/professional-cert/UZ5TDKIZLSLX)
-  ### [Cyber Security Course Level Basic](https://itbox.id/certificate-verifier/139414075-13ECBB898-12CE9C6B3/)
+  ### [IT BOX Cyber Security Course Level Basic](https://itbox.id/certificate-verifier/139414075-13ECBB898-12CE9C6B3/)
+  ### [IT BOX Cyber Security Course Level Intermediate](https://itbox.id/certificate-verifier/139414075-1395F0468-12CE9C6B3/)
+  ### [IT BOX Cyber Security Course Level Advanced](https://itbox.id/certificate-verifier/139414075-1395F29E7-12CE9C6B3/)
+  ### [Cyber Security Course By HabisKerja.com](https://drive.google.com/file/d/1i-OMxNAPMeax3RG2F7HX33pHIBRZ71RW/view?usp=drive_link)
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
 - Brief description of what the project is about.
