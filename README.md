@@ -7,9 +7,9 @@ The world is becoming more interconnected, and with that, the need for robust cy
 - Problem-Solving Under Pressure: Years in F&B taught me how to think critically and resolve issues swiftly — a mindset I now apply to security challenges.
 - Attention to Detail: Ensuring nothing falls through the cracks is crucial in both industries, whether it's a customer order or network vulnerabilities.
 - Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
-
+  
 ## Projects
-### [Project Name 1](link-to-your-project)
+### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
 - Brief description of what the project is about.
 
 ### [Project Name 2](link-to-your-project)
