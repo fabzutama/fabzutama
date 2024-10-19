@@ -1,4 +1,4 @@
-# Hi there, I'm Fabian Zikri Utama 👋
+## Hi there, I'm Fabian Zikri Utama 👋
 ## About Me
 I’m currently on an exciting journey transitioning from the fast-paced world of Food & Beverage (F&B) into the dynamic field of Cybersecurity.For four years, I honed my skills in the F&B industry, learning valuable lessons in teamwork, attention to detail, and problem-solving in high-pressure environments. While I loved the fast pace and challenges, I’ve always had a passion for technology and security. Recognizing the increasing importance of cybersecurity in today’s digital age, I decided to make a career pivot to protect organizations from emerging threats.
 ## Why Cybersecurity?
@@ -7,7 +7,9 @@ The world is becoming more interconnected, and with that, the need for robust cy
 - Problem-Solving Under Pressure: Years in F&B taught me how to think critically and resolve issues swiftly — a mindset I now apply to security challenges.
 - Attention to Detail: Ensuring nothing falls through the cracks is crucial in both industries, whether it's a customer order or network vulnerabilities.
 - Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
-  
+  ## Certifications
+  ### [Google Cyber Security](https://www.coursera.org/account/accomplishments/professional-cert/UZ5TDKIZLSLX)
+  ### [Cyber Security Course Level Basic](https://itbox.id/certificate-verifier/139414075-13ECBB898-12CE9C6B3/)
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
 - Brief description of what the project is about.
