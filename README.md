@@ -4,9 +4,9 @@ I’m currently on an exciting journey transitioning from the fast-paced world o
 ## Why Cybersecurity?
 The world is becoming more interconnected, and with that, the need for robust cybersecurity solutions has never been greater. My experience in F&B has taught me how crucial it is to ensure smooth operations and mitigate risks — skills I now apply to cybersecurity. I’m fascinated by ethical hacking, network security, and the ever-evolving threat landscape, and I am eager to contribute to securing digital infrastructures.
 ## Skills I'm Bringing to Cybersecurity
-Problem-Solving Under Pressure: Years in F&B taught me how to think critically and resolve issues swiftly — a mindset I now apply to security challenges.
-Attention to Detail: Ensuring nothing falls through the cracks is crucial in both industries, whether it's a customer order or network vulnerabilities.
-Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
+- Problem-Solving Under Pressure: Years in F&B taught me how to think critically and resolve issues swiftly — a mindset I now apply to security challenges.
+- Attention to Detail: Ensuring nothing falls through the cracks is crucial in both industries, whether it's a customer order or network vulnerabilities.
+- Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
 
 ## Projects
 ### [Project Name 1](link-to-your-project)
