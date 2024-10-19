@@ -7,6 +7,17 @@ The world is becoming more interconnected, and with that, the need for robust cy
 - Problem-Solving Under Pressure: Years in F&B taught me how to think critically and resolve issues swiftly — a mindset I now apply to security challenges.
 - Attention to Detail: Ensuring nothing falls through the cracks is crucial in both industries, whether it's a customer order or network vulnerabilities.
 - Teamwork: I understand the value of clear communication and collaboration, crucial for working in cybersecurity teams to secure systems and prevent breaches.
+## Cybersecurity Focus
+Currently honing my skills in ethical hacking, vulnerability assessments, and network security. I'm especially interested in penetration testing, digital forensics, and cloud security.
+## Tech Stack
+- Kali Linux
+- Metasploitable
+- Nessus
+- Python
+- Connect and Protect: Networks and Network Security
+- Manage Security Risks
+- Assets, Threats, and Vulnerabilities
+
   ## Certifications
   ### [Google Cyber Security](https://www.coursera.org/account/accomplishments/professional-cert/UZ5TDKIZLSLX)
   ### [IT BOX Cyber Security Course Level Basic](https://itbox.id/certificate-verifier/139414075-13ECBB898-12CE9C6B3/)
