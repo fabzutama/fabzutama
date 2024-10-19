@@ -1,11 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Fabian Zikri Utama 👋
 
 ## About Me
-- 🌱 I’m currently learning: [Programming languages, technologies, or frameworks you're learning]
-- 👯 I’m looking to collaborate on: [Types of projects or technologies you're interested in]
-- 🤔 I’m looking for help with: [Topics or areas where you seek assistance]
-- 💬 Ask me about: [Areas of expertise or topics you're passionate about]
-- 📫 How to reach me: [Your email or social media links]
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Python
+- 📫 How to reach me: abangzu@Gmail.com, https://www.instagram.com/fabianztama?igsh=MWEwenU5MGNwYXlpaQ==
 
 ## Skills
 - **Languages**: [e.g., Python, JavaScript, Java]
