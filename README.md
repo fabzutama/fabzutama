@@ -31,17 +31,8 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
 - Brief description of what the project is about.
 
-### [Project Name 2](link-to-your-project)
-- Brief description of what the project is about.
-
-## Fun Facts
-- 🎨 I love [your hobby or interest].
-- 📚 I’m a fan of [favorite books, shows, or genres].
-- 🌍 I’m from [your location or a bit about your background].
-
 ## Let's Connect!
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
+- [LinkedIn] www.linkedin.com/in/fabianzu
+- [Instagram] https://www.instagram.com/fabianztama?igsh=MWEwenU5MGNwYXlpaQ==
 
 Thanks for stopping by! 🚀
