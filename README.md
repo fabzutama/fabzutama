@@ -26,6 +26,8 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
   ### [Cyber Security Course By HabisKerja.com](https://drive.google.com/file/d/1i-OMxNAPMeax3RG2F7HX33pHIBRZ71RW/view?usp=drive_link)
   ### [Master Card Cyber Security Job Simulation By Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_vKKZLz3w23gpAxRQ7_1728104002457_completion_certificate.pdf)
   ### [AIG Cyber Security Job Simulation By Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_vKKZLz3w23gpAxRQ7_1728110776883_completion_certificate.pdf)
+  ### [Datacom - Cybersecurity Job Simulation By Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_vKKZLz3w23gpAxRQ7_1729515348484_completion_certificate.pdf)
+  ### [ANZ Australia - Cyber Security Management Job Simulation By Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_vKKZLz3w23gpAxRQ7_1729515937646_completion_certificate.pdf)
   
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
