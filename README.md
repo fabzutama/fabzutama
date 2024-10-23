@@ -32,7 +32,8 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
 - The project on Vulnerability typically focuses on identifying, assessing, and mitigating security weaknesses in systems, applications, or networks. It aims to enhance an organization's security posture by analyzing potential vulnerabilities that could be exploited by attackers. The project often includes conducting vulnerability assessments, using tools to scan for weaknesses, prioritizing risks, and recommending remediation strategies to protect against potential threats. Overall, it seeks to ensure the integrity, confidentiality, and availability of information and resources within the organization.
-  
+### [Network Traffic Analysis using tcpdump](https://github.com/fabzutama/network-traffic-analysis)
+- The project on Network Traffic Analysis involves monitoring, inspecting, and analyzing data packets transmitted over a network. The goal is to understand traffic patterns, identify anomalies, detect potential security threats, and optimize network performance. This project typically includes the use of specialized tools to capture and analyze traffic data, assess bandwidth usage, and ensure compliance with security policies. By gaining insights into network behavior, organizations can enhance security measures, improve resource allocation, and troubleshoot issues effectively.
 
 ## Let's Connect!
 - [LinkedIn] www.linkedin.com/in/fabianzu
