@@ -31,7 +31,7 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
   
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
-- Brief description of what the project is about.
+-
 
 ## Let's Connect!
 - [LinkedIn] www.linkedin.com/in/fabianzu
