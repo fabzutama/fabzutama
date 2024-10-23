@@ -31,7 +31,8 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
   
 ## Projects
 ### [Vulnerability Scanning](https://github.com/fabzutama/Vulnerability-Scanning-Project)
--
+- The project on Vulnerability typically focuses on identifying, assessing, and mitigating security weaknesses in systems, applications, or networks. It aims to enhance an organization's security posture by analyzing potential vulnerabilities that could be exploited by attackers. The project often includes conducting vulnerability assessments, using tools to scan for weaknesses, prioritizing risks, and recommending remediation strategies to protect against potential threats. Overall, it seeks to ensure the integrity, confidentiality, and availability of information and resources within the organization.
+  
 
 ## Let's Connect!
 - [LinkedIn] www.linkedin.com/in/fabianzu
