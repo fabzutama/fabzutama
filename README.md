@@ -19,6 +19,7 @@ Currently honing my skills in ethical hacking, vulnerability assessments, and ne
 - Assets, Threats, and Vulnerabilities
 
   ## Certifications
+  ### [Cyber Security Professional Academy Digital Talent Scholarship](https://drive.google.com/file/d/1myn2nctOkI-qaRak_TpkUcj7ioEHkAsw/view?usp=sharing)
   ### [Google Cyber Security](https://www.coursera.org/account/accomplishments/professional-cert/UZ5TDKIZLSLX)
   ### [IT BOX Cyber Security Course Level Basic](https://itbox.id/certificate-verifier/139414075-13ECBB898-12CE9C6B3/)
   ### [IT BOX Cyber Security Course Level Intermediate](https://itbox.id/certificate-verifier/139414075-1395F0468-12CE9C6B3/)
